@@ -1,6 +1,6 @@
 # PruebasArduino
 
-# 1
+## 1
 Led que se enciende y se apaga cada 1000 milisegundo.
 
 # 2
